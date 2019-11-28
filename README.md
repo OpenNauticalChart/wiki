@@ -2,7 +2,7 @@
 
 * Link: [wiki.opennauticalchart.org](https://wiki.opennauticalchart.org) 
 * URL: wiki.opennauticalchart.org
-* IP-Adress: 62.138.1.116
+* IP-Adress: 87.230.27.66
 * SSL-Cert: [letsencrypt.org](https://letsencrypt.org)
 * hostmaster: [Dirk--](https://github.com/Dirk--)
 * Powered by: [mediakiki](https://www.mediawiki.org)
